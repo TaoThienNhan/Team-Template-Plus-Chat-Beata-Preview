@@ -3,7 +3,8 @@
 
 ## Description
 
-This is a discord clone version built with NextJs by Tao Thien Nhan
+This is a discord clone version built with NextJs by Tao Thien Nhan.
+This project only has a link, the source code is not publicly available.
 
 ## Author
 
